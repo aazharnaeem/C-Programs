@@ -12,4 +12,5 @@ int main(){
 	else {
 		printf("The Given Number is Even");
 	}
+	return 0;
 }
